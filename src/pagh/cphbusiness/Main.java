@@ -9,9 +9,13 @@ public class Main
     {
 //        Assignment1 one = new Assignment1();
 //        one.opgave1();
+//
+//        Assignment2 two = new Assignment2();
+//        two.couponCollector();
 
-        Assignment2 two = new Assignment2();
-        two.couponCollector();
+        Assignment3 three = new Assignment3();
+        three.tester();
+
     }
 
 
